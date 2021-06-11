@@ -11,8 +11,10 @@ To achieve this project we have listed the following steps :
 ## 1. Download the dataset and models from Merieme's drive
 
 * Move the file to root directory
- https://www.kaggle.com/hsankesara/flickr-image-dataset
+
 * complete "env" variables in main.py (only root path, the rest is default) to file
 
 ## 2. Run Method2
  * Running main.py preprocesses data, trains model, executes tests while showing graphs and images of the process
+
+# Link to dataset :  https://www.kaggle.com/hsankesara/flickr-image-dataset
